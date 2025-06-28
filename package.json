@@ -1,0 +1,14 @@
+{
+  "name": "Tsu_Telegram_Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": { "chalk": "^5.4.1", "date-fns": "^4.1.0", "dotenv": "^17.0.0", "figlet": "^1.8.1", "gradient-string": "^3.0.0", "grammy": "^1.36.3", "os": "^0.1.2", "readline": "^1.3.0" },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}
